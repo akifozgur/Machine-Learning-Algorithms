@@ -1,15 +1,13 @@
 
 # Naive Bayes Algorithm (Naive Bayes Alogritması)
 
-
-
-
-
 ![Naive Bayes](naive_bayes.png)
 
-  Naive Bayes Algoritması Bayes Teoremi’ni temel alan, denetimli (supervised) bir makine öğrenimi sınıflandırma (classification) algoritmasıdır.
+Naive Bayes Algorithm is a supervised machine learning classification algorithm based on Bayes' Theorem.
 
-Diğer denetimli öğrenim algoritmaları gibi Naive Bayes Algoritması da sınıflandırılacak verinin sınıfını tahmin etmek için sınıfı bilinen verilerin özelliklerini kullanır. Naive Bayes Algoritması ele aldığı her bir verinin özelliklerinin birbirinden bağımsız olduğunu varsayar. Gerçek hayatta aslında birbirleriyle bağımlı olabilen bu özelliklerin Naive Bayes Algoritmasının saf (naive) şekilde birbirinden bağımsız kabul etmesi ona Naive denmesine neden olmuştur.
+Like other supervised learning algorithms, Naive Bayes Algorithm uses the features of known data to predict the class of the data to be classified. The algorithm assumes that the features of each data point are independent of each other, which is a naive assumption since in reality, these features may be dependent on each other. Despite the interdependence of features in real life, the algorithm is termed 'naive' because it simplistically assumes independence.
+
+You can access my article on the topic through the Medium link: https://medium.com/@ozgurmehmetakif/naive-bayes-algorithm-d15d7062b0d6
 
 Konu hakkındaki yazıma Medium linkinden ulaşabilirsiniz: https://medium.com/@ozgurmehmetakif/naive-bayes-alogritmas%C4%B1-naive-bayes-algorithm-39ecfc2c398c
   
