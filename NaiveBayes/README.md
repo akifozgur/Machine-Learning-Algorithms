@@ -1,5 +1,5 @@
 
-# Naive Bayes Algorithm (Naive Bayes Alogritması)
+# Naive Bayes Algorithm
 
 ![Naive Bayes](naive_bayes.png)
 
